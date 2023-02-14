@@ -30,3 +30,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" **alt="Flask" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="50" height="50"/>
 </div>
+
+### :fire: Streak stats  :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spbmolot&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
