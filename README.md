@@ -31,7 +31,7 @@ __________
 
 ### 🛠️️ Languages and tools :
 
-- Python 
+- <h3><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="16"/> Python </h3>
 - Django 
 - Docker 
 - MySQL 
@@ -41,8 +41,8 @@ __________
 - Flask
 
 <div>
-	<h1>Python</a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="32"/></h1>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="32"/>
 	
 </div>
 <!-- ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)
