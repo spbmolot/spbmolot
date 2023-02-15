@@ -10,7 +10,7 @@
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 	<a href="linkedin-url">
-    <a href=""</a>
+    <a href="https://t.me/tonymolotilo/"</a>
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
 	<a href="twitter-url">
@@ -19,7 +19,7 @@
 	</a>
 </div>
 
-### :sunglasses: About me
+### 😎 About me
 - 🌱 I’m currently learning **Python, Django, MySQL, Postgresql**
 - 📝 I am studying at the Netology course Python-developer
 - 📫 Reach me by [Telegram](https://t.me/tonymolotilo/), [email](mailto:spbmolot@mail.ru)
@@ -28,14 +28,15 @@
 
 __________
 
-### GitHub Profile Trophy 
+### 🏆 GitHub Profile Trophy 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=spbmolot&theme=matrix)](https://github.com/spbmolot/github-profile-trophy)
 __________
 
-### :hammer_and_wrench: Languages and tools
-<div id="tools" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/>
+### 🛠️️ Languages and tools
+<div id="tools">
+  <img src="/img/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/>
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
@@ -47,14 +48,16 @@ __________
   
 __________
 
-### :fire: Streak stats  :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spbmolot&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+### 🔥 Streak stats  :
+<div id="streak">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spbmolot&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</div>
 __________
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spbmolot&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spbmolot&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spbmolot&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=spbmolot&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=spbmolot&theme=solarized_dark)
-
+<div id="statistic">
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spbmolot&theme=solarized_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spbmolot&theme=solarized_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spbmolot&theme=solarized_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=spbmolot&theme=solarized_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=spbmolot&theme=solarized_dark)
+</div>
 
