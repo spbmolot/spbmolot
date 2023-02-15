@@ -31,11 +31,25 @@ __________
 
 ### 🛠️️ Languages and tools :
 
+- Python 
+- Django 
+- Docker 
+- MySQL 
+- Postgresql 
+- Git 
+- Github 
+- Flask
+
+<div>
+	<h1>Python</a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="32"/></h1>
+	
+</div>
 <!-- ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)
 
 <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg width="200" height="200" /> -->
 <!-- <div id="tools">
-  <img src="img/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/>
+  <img src="[img/python-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)" title="Python" **alt="Python" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="50" height="50"/>
