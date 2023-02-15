@@ -5,18 +5,10 @@
 </div>
 
 <div id="socials" align="center">
-  <a href="telegram-url">
-    <a href="https://t.me/tonymolotilo/"</a>
-		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-	</a>
-	<a href="linkedin-url">
-    <a href="https://t.me/tonymolotilo/"</a>
-		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-	</a>
-	<a href="twitter-url">
-    <a href="https://twitter.com/AMolotilo?t=vn7Sbn8jTJGcoZyL1UnE6A&s=08/"</a>
-		<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-	</a>
+
+  [Telegram](https://t.me/tonymolotilo/)
+  [LinkedIn](https://t.me/tonymolotilo/)
+  [Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white/)
 </div>
 
 ### 😎 About me
@@ -34,7 +26,11 @@ __________
 __________
 
 ### 🛠️️ Languages and tools
-<div id="tools">
+
+![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)
+
+<img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg width="200" height="200" />
+<!-- <div id="tools">
   <img src="img/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="50" height="50"/>
@@ -44,7 +40,7 @@ __________
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" **alt="Postgresql" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" **alt="Flask" width="50" height="50"/>
-
+</div> -->
   
 __________
 
