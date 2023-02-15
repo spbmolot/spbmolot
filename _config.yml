@@ -6,7 +6,3 @@ theme: jekyll-theme-minimal
 title: <h1>Hi there, I'm <a href="https://github.com/spbmolot" target="_blank">Anton</a>
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 description: <h3>Netology student, Python-developer from Russia</h3>
-
-<head>
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
-</head>
