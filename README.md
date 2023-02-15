@@ -10,7 +10,7 @@
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 	<a href="linkedin-url">
-    <a href=""</a>
+    <a href="https://www.linkedin.com/in/anton-molotilo-7b0571266/"</a>
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
 	<a href="twitter-url">
