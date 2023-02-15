@@ -11,7 +11,7 @@
   [Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white/)
 </div> -->
 
-- [Telegram](https://t.me/tonymolotilo/) - [LinkedIn](https://t.me/tonymolotilo/) - [Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white/)
+<!-- - [Telegram](https://t.me/tonymolotilo/) - [LinkedIn](https://t.me/tonymolotilo/) - [Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white/) -->
 
 ### 😎 About me
 - 🌱 I’m currently learning **Python, Django, MySQL, Postgresql**
