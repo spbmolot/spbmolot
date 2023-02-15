@@ -35,8 +35,8 @@ __________
 
 ### 🛠️️ Languages and tools
 <div id="tools">
-  <img src="/img/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/>
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/> -->
+  <img src="img/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
@@ -49,15 +49,15 @@ __________
 __________
 
 ### 🔥 Streak stats  :
-<div id="streak">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spbmolot&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-</div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spbmolot&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 __________
-<div id="statistic">
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spbmolot&theme=solarized_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spbmolot&theme=solarized_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spbmolot&theme=solarized_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=spbmolot&theme=solarized_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=spbmolot&theme=solarized_dark)
-</div>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spbmolot&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spbmolot&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spbmolot&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=spbmolot&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=spbmolot&theme=solarized_dark)
+
 
