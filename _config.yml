@@ -3,6 +3,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 theme: jekyll-theme-minimal
-title: <h1>Hi there, I'm <a href="https://github.com/spbmolot" target="_blank">Anton style="color: #ff6161"</a>
+title: <h1>Hi there, I'm <a href="https://github.com/spbmolot" target="_blank">Anton style="color:#ff6161"</a>
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 description: <h3>Netology student, Python-developer from Russia</h3>
