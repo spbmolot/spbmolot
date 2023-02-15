@@ -15,7 +15,7 @@
 - [LinkedIn](https://t.me/tonymolotilo/)
 - [Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white/)
 
-### 😎 About me
+### 😎 About me :
 - 🌱 I’m currently learning **Python, Django, MySQL, Postgresql**
 - 📝 I am studying at the Netology course Python-developer
 - 📫 Reach me by [Telegram](https://t.me/tonymolotilo/), [email](mailto:spbmolot@mail.ru)
@@ -24,12 +24,12 @@
 
 __________
 
-### 🏆 GitHub Profile Trophy 
+### 🏆 GitHub Profile Trophy :
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=spbmolot&theme=matrix)](https://github.com/spbmolot/github-profile-trophy)
 __________
 
-### 🛠️️ Languages and tools
+### 🛠️️ Languages and tools :
 
 <!-- ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)
 
@@ -48,7 +48,7 @@ __________
   
 __________
 
-### 🔥 Streak stats  :
+### 🔥 Streak stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spbmolot&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
