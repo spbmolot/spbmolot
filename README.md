@@ -11,7 +11,9 @@
   [Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white/)
 </div>
 
-[Telegram](https://t.me/tonymolotilo/)
+- [Telegram](https://t.me/tonymolotilo/)
+- [LinkedIn](https://t.me/tonymolotilo/)
+- [Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white/)
 
 ### 😎 About me
 - 🌱 I’m currently learning **Python, Django, MySQL, Postgresql**
@@ -29,9 +31,9 @@ __________
 
 ### 🛠️️ Languages and tools
 
-![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)
+<!-- ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)
 
-<img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg width="200" height="200" />
+<img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg width="200" height="200" /> -->
 <!-- <div id="tools">
   <img src="img/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/>
