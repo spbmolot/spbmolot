@@ -27,7 +27,6 @@ __________
 ### 🏆 GitHub Profile Trophy :
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=spbmolot&theme=matrix)](https://github.com/spbmolot/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=spbmolot)](https://github.com/ryo-ma/github-profile-trophy)
 __________
 
 ### 🛠️️ Languages and tools :
