@@ -3,7 +3,7 @@
 </head>
 
 - [Telegram](https://t.me/tonymolotilo/)
-- [LinkedIn](https://www.linkedin.com/)
+- [LinkedIn](https://www.linkedin.com/in/anton-molotilo-7b0571266/)
 - [Twitter](https://twitter.com/AMolotilo?t=vn7Sbn8jTJGcoZyL1UnE6A&s=08/)
 
 ### 😎 About me :
