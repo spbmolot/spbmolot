@@ -3,8 +3,8 @@
 </head>
 
 - [Telegram](https://t.me/tonymolotilo/)
-- [LinkedIn](https://t.me/tonymolotilo/)
-- [Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white/)
+- [LinkedIn](https://www.linkedin.com/)
+- [Twitter](https://twitter.com/AMolotilo?t=vn7Sbn8jTJGcoZyL1UnE6A&s=08/)
 
 ### 😎 About me :
 - 🌱 I’m currently learning **Python, Django, MySQL, Postgresql**
