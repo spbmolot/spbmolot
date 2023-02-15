@@ -1,8 +1,8 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
 	<h1>Hi there, I'm <a href="https://spbmolot.github.io/spbmolot/" target="_blank">Anton</a>
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 	<h3>Netology student, Python-developer from Russia</h3>
-</div>
+</div> -->
 
 <!-- <div id="socials" align="center">
 
@@ -11,7 +11,7 @@
   [Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white/)
 </div> -->
 
-<div id="socials" align="center"> - [Telegram](https://t.me/tonymolotilo/) - [LinkedIn](https://t.me/tonymolotilo/) - [Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white/) </div> -->
+- [Telegram](https://t.me/tonymolotilo/) - [LinkedIn](https://t.me/tonymolotilo/) - [Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white/)
 
 ### 😎 About me
 - 🌱 I’m currently learning **Python, Django, MySQL, Postgresql**
