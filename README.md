@@ -19,7 +19,7 @@
 	</a>
 </div>
 
-### :sunglasses: About me
+### 😎 About me
 - 🌱 I’m currently learning **Python, Django, MySQL, Postgresql**
 - 📝 I am studying at the Netology course Python-developer
 - 📫 Reach me by [Telegram](https://t.me/tonymolotilo/), [email](mailto:spbmolot@mail.ru)
@@ -28,26 +28,26 @@
 
 __________
 
-### GitHub Profile Trophy 
+### 🏆 GitHub Profile Trophy 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=spbmolot&theme=matrix)](https://github.com/spbmolot/github-profile-trophy)
 __________
 
-### :hammer_and_wrench: Languages and tools
-<div id="tools" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" **alt="Postgresql" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" **alt="Flask" width="50" height="50"/>
-</div>
+### 🛠️️ Languages and tools
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" **alt="Postgresql" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" **alt="Flask" width="50" height="50"/>
+
   
 __________
 
-### :fire: Streak stats  :
+### 🔥 Streak stats  :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spbmolot&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 __________
 
