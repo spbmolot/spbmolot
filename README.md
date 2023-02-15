@@ -4,16 +4,14 @@
 	<h3>Netology student, Python-developer from Russia</h3>
 </div>
 
-<div id="socials" align="center">
+<!-- <div id="socials" align="center">
 
   [Telegram](https://t.me/tonymolotilo/)
   [LinkedIn](https://t.me/tonymolotilo/)
   [Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white/)
-</div>
+</div> -->
 
-- [Telegram](https://t.me/tonymolotilo/)
-- [LinkedIn](https://t.me/tonymolotilo/)
-- [Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white/)
+- [Telegram](https://t.me/tonymolotilo/) - [LinkedIn](https://t.me/tonymolotilo/) - [Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white/)
 
 ### 😎 About me
 - 🌱 I’m currently learning **Python, Django, MySQL, Postgresql**
