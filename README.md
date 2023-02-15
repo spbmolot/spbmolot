@@ -31,7 +31,7 @@ __________
 
 ### 🛠️️ Languages and tools :
 
-- <h3><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="16"/> Python </h3>
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) Python
 - Django 
 - Docker 
 - MySQL 
