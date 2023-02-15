@@ -34,7 +34,7 @@ __________
 __________
 
 ### 🛠️️ Languages and tools
-<div id="tools" align="center">
+<div id="tools">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="50" height="50"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="50" height="50"/>
